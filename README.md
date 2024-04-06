@@ -20,7 +20,8 @@
    
 **Below is the Solution Architecture Diagram referred for this Project**
 
-![image](https://github.com/gauti1409/Covid_ADF_Project/assets/41252711/abd0fd93-66da-42a5-80d6-1f589a101968)
+![Solution_Architecture_Diagram](https://github.com/gauti1409/Covid_ADF_Project/assets/41252711/7f490710-3699-40b5-aeeb-cfaab3642450)
+
 
 
 

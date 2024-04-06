@@ -1,5 +1,6 @@
 **Objective: To develop a project based around reporting and prediction of COVID-19 Spread. To create a data platform from which our data analysts can easily report on the COVID-19 trends using a reporting tool.**
 
+**Datasets Used: The data for the Covid is taken from the ECDC Website which consists of hospitalisation cases and admissions data, Covid Testing done data, Cases and deaths data, country codes lookup etc. The source datasets used in this project are present in the Source_Datasets Folder.**
 
 **Solution Architecture:**
 

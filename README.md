@@ -22,7 +22,8 @@
    
 **Below is the Solution Architecture Diagram referred for this Project**
 
-![image](https://github.com/gauti1409/Covid_ADF_Project/assets/41252711/3fa22bba-f55a-4ed1-8bb0-63256cd0f1f3)
+![image](https://github.com/gauti1409/Covid_ADF_Project/assets/41252711/abd0fd93-66da-42a5-80d6-1f589a101968)
+
 
 
 

@@ -1,4 +1,4 @@
-**Objective: To develop a project based around reporting and prediction of COVID-19 Spread. We want to create a data platform from which our data analysts can easily report on the COVID-19 trends using a reporting tool.**
+**Objective: To develop a project based around reporting and prediction of COVID-19 Spread. To create a data platform from which our data analysts can easily report on the COVID-19 trends using a reporting tool.**
 
 
 **Solution Architecture:**
@@ -15,7 +15,7 @@
 
 6. Use Azure databricks for transformation of one of the datasets. Then, ADF will be used as an orchestration tool rather than a trasnformation tool.
 
-7. All of the transformed data will then be used in our data lake for use in ML Models.
+7. All of the transformed data will then be used in our data lake later for use in ML Models by Data Scientists.
 
 8. We will also push the subset of the required data to the SQL database i.e Azure SQL Database so that it can be used for reporting. We will then build a Power BI Report from this data.
 

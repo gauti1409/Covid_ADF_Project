@@ -15,7 +15,7 @@
 
 6. Use Azure databricks for transformation of one of the datasets. Then, ADF will be used as an orchestration tool rather than a trasnformation tool.
 
-7. We will also push the subset of the required data to the SQL database i.e Azure SQL Database so that it can be used for reporting. We will then build a Power BI Report from this data.
+7. We will then push the subset of the required data to the SQL database i.e Azure SQL Database so that it can be used for reporting. We will then build a Power BI Report from this data.
 
    
 **Below is the Solution Architecture Diagram referred for this Project**
